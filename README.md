@@ -25,7 +25,7 @@ The dataset used in this project (`emails.csv`) contains two columns:
 - `text`: The content of the emails.
 - `spam`: The label indicating whether the email is spam (`1`) or not (`0`).
 ### Data Overview :
-- ***Total Records***: 5728 emails
+- **Total Records**: 5728 emails
 - **Number of Spam Emails**: 1368
 - **Number of Non-Spam Emails**: 4360
 ## Installation and Setup :
