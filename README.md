@@ -28,7 +28,7 @@ The dataset used in this project (`emails.csv`) contains two columns:
 - **Total Records**: 5728 emails
 - **Number of Spam Emails**: 1368
 - **Number of Non-Spam Emails**: 4360
-## Installation and Setup :
+## Installation :
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/spam-detection.git
