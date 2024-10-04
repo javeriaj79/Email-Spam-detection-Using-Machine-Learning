@@ -3,12 +3,10 @@ This project implements various machine learning algorithms to classify emails a
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Dataset Description](#dataset-description)
-3. [Installation and Setup](#installation-and-setup)
+2. [Dataset ](#dataset)
+3. [Installation ](#installation)
 4. [ML Algorithms](#model-implementation)
 5. [Evaluation Metrics](#evaluation-metrics)
-   - Accuracy Score
-   - Confusion Matrix
 6. [Results](#results)
 7. [Contributing](#contributing)
 8. [Feedback](#feedback)
